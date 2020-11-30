@@ -1,2 +1,2 @@
 # run-migration-on-startup
-Runs the migration when an application starts
+When .net app starts, the Program.cs file is configred to checks and run the migration in the main method. 
